@@ -21,7 +21,7 @@ This is a space where I try to create personal projects and upskill myself in va
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I'm based in Helsinki and current working with edge cloud automation.
+- 🔭 I'm based in Helsinki and currently working with edge cloud automation.
 - 🌱 My daily stack includes go, groovy. podman, kubernetes.
 - 💬 Ask me about anything , Would love to answer them.✌
 
