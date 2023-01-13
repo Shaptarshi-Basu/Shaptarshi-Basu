@@ -6,7 +6,7 @@
 <img align="left" alt="Shaptarshi Basu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-
+<br />
 Hi,I am Shaptarshi and I have been working as Software Engineer. I have worked under a varied range of developmental roles, but mostly as a cloud backend developer.
 This is a space where I try to create personal projects and upskill myself in various topics. Recently I have been working mostly with go and exploring various AWS services and creating small PoCs to better understand them. Please feel free to creates issue to my projects and drop in your suggestions and advices.
 
